@@ -3,6 +3,7 @@ package Abstraction;
 abstract public class Abstract {
 public void m1() {//complete method
 	System.out.println("boss i am already completed");
+	system.out.println("i am a kanchan");
 }
 
 abstract public void m2();
